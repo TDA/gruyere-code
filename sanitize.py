@@ -81,7 +81,7 @@ def _SanitizeTag(t):
       'onblur', 'onchange', 'onclick', 'ondblclick', 'onfocus',
       'onkeydown', 'onkeypress', 'onkeyup', 'onload', 'onmousedown',
       'onmousemove', 'onmouseout', 'onmouseup', 'onreset',
-      'onselect', 'onsubmit', 'onunload'
+      'onselect', 'onsubmit', 'onunload', 'onmouseover'
   ]
 
   # Extract the tag name and make sure it's allowed.
